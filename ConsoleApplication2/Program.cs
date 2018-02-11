@@ -10,6 +10,7 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
+            string x = "This is the 1st commit";
         }
     }
 }
